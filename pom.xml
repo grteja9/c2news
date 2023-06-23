@@ -92,5 +92,5 @@
         </plugins>
 
     </build>
-<finalName>devops-integration</finalName>
+<finalName>connect2news</finalName>
 </project>
