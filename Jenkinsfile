@@ -9,7 +9,9 @@ pipeline{
             }
             steps{
                 script {
-               
+               withSonarQubeEnv(credentialsId: 'sonar-token') {
+    // some block
+}
                 }
             }
 
