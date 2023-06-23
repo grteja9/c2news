@@ -80,7 +80,7 @@
 				<artifactId>git-commit-id-plugin</artifactId>
 			</plugin>
         </plugins>
-
+        <finalName>connect2news</finalName>
     </build>
-<finalName>connect2news</finalName>
+
 </project>
